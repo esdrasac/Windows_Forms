@@ -1,0 +1,10 @@
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\obj\Debug\Atividade_Forms.csprojAssemblyReference.cache
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\obj\Debug\Atividade_Forms.Form1.resources
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\obj\Debug\Atividade_Forms.Properties.Resources.resources
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\obj\Debug\Atividade_Forms.csproj.GenerateResource.cache
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\obj\Debug\Atividade_Forms.csproj.CoreCompileInputs.cache
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\bin\Debug\Atividade_Forms.exe.config
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\bin\Debug\Atividade_Forms.exe
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\bin\Debug\Atividade_Forms.pdb
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\obj\Debug\Atividade_Forms.exe
+C:\GitHub\Exercícios POO\Atividade_Forms\Atividade_Forms\obj\Debug\Atividade_Forms.pdb
